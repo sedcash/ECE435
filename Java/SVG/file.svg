@@ -1,0 +1,300 @@
+<svg 
+	xmlns = 'http://www.w3.org/2000/svg'
+	xmlns:xlink = 'http://www.w3.org/1999/xlink'
+	version = '1.1'
+	width = '1400' height = '1400'>
+<circle cx = '700.0' cy = '700.0'
+	r = '55.0'
+	fill = 'rgb(0,0,0)'
+	stroke = 'rgb(0,0,0)' stroke-width = '1' 
+	opacity = '1.0'/>
+
+<circle cx = '800.0' cy = '700.0'
+	r = '45.0'
+	fill = 'rgb(255,0,0)'
+	stroke = 'rgb(0,0,0)' stroke-width = '1' 
+	opacity = '0.8'/>
+
+<circle cx = '754.030230586814' cy = '615.8529015192104'
+	r = '45.0'
+	fill = 'rgb(255,0,0)'
+	stroke = 'rgb(0,0,0)' stroke-width = '1' 
+	opacity = '0.8'/>
+
+<circle cx = '658.3853163452858' cy = '609.0702573174318'
+	r = '45.0'
+	fill = 'rgb(255,0,0)'
+	stroke = 'rgb(0,0,0)' stroke-width = '1' 
+	opacity = '0.8'/>
+
+<circle cx = '601.0007503399554' cy = '685.8879991940133'
+	r = '45.0'
+	fill = 'rgb(255,0,0)'
+	stroke = 'rgb(0,0,0)' stroke-width = '1' 
+	opacity = '0.8'/>
+
+<circle cx = '634.6356379136388' cy = '775.6802495307928'
+	r = '45.0'
+	fill = 'rgb(255,0,0)'
+	stroke = 'rgb(0,0,0)' stroke-width = '1' 
+	opacity = '0.8'/>
+
+<circle cx = '728.3662185463227' cy = '795.8924274663138'
+	r = '45.0'
+	fill = 'rgb(255,0,0)'
+	stroke = 'rgb(0,0,0)' stroke-width = '1' 
+	opacity = '0.8'/>
+
+<circle cx = '881.6144743652811' cy = '723.7503173469087'
+	r = '40.0'
+	fill = 'rgb(255,153,51)'
+	stroke = 'rgb(0,0,0)' stroke-width = '1' 
+	opacity = '0.8'/>
+
+<circle cx = '818.1119222059949' cy = '560.0090406281133'
+	r = '40.0'
+	fill = 'rgb(255,153,51)'
+	stroke = 'rgb(0,0,0)' stroke-width = '1' 
+	opacity = '0.8'/>
+
+<circle cx = '646.0178134715536' cy = '524.9748063544444'
+	r = '40.0'
+	fill = 'rgb(255,153,51)'
+	stroke = 'rgb(0,0,0)' stroke-width = '1' 
+	opacity = '0.8'/>
+
+<circle cx = '523.5546780797579' cy = '650.8579279484641'
+	r = '40.0'
+	fill = 'rgb(255,153,51)'
+	stroke = 'rgb(0,0,0)' stroke-width = '1' 
+	opacity = '0.8'/>
+
+<circle cx = '563.3145579421404' cy = '821.9220439563893'
+	r = '40.0'
+	fill = 'rgb(255,153,51)'
+	stroke = 'rgb(0,0,0)' stroke-width = '1' 
+	opacity = '0.8'/>
+
+<circle cx = '728.742402875307' cy = '880.8915950231236'
+	r = '40.0'
+	fill = 'rgb(255,153,51)'
+	stroke = 'rgb(0,0,0)' stroke-width = '1' 
+	opacity = '0.8'/>
+
+<circle cx = '944.903521270218' cy = '763.9932861969413'
+	r = '35.0'
+	fill = 'rgb(255,255,51)'
+	stroke = 'rgb(0,0,0)' stroke-width = '1' 
+	opacity = '0.8'/>
+
+<circle cx = '886.1704308147596' cy = '528.4965128661153'
+	r = '35.0'
+	fill = 'rgb(255,255,51)'
+	stroke = 'rgb(0,0,0)' stroke-width = '1' 
+	opacity = '0.8'/>
+
+<circle cx = '656.2731048371411' cy = '450.6792546773291'
+	r = '35.0'
+	fill = 'rgb(255,255,51)'
+	stroke = 'rgb(0,0,0)' stroke-width = '1' 
+	opacity = '0.8'/>
+
+<circle cx = '466.57808461534626' cy = '602.0863399366804'
+	r = '35.0'
+	fill = 'rgb(255,255,51)'
+	stroke = 'rgb(0,0,0)' stroke-width = '1' 
+	opacity = '0.8'/>
+
+<circle cx = '491.4900969178865' cy = '843.5147927062692'
+	r = '35.0'
+	fill = 'rgb(255,255,51)'
+	stroke = 'rgb(0,0,0)' stroke-width = '1' 
+	opacity = '0.8'/>
+
+<circle cx = '708.1051525214373' cy = '952.9964069140904'
+	r = '35.0'
+	fill = 'rgb(255,255,51)'
+	stroke = 'rgb(0,0,0)' stroke-width = '1' 
+	opacity = '0.8'/>
+
+<circle cx = '987.8241073060832' cy = '812.8074572371003'
+	r = '30.0'
+	fill = 'rgb(0,204,0)'
+	stroke = 'rgb(0,0,0)' stroke-width = '1' 
+	opacity = '0.8'/>
+
+<circle cx = '950.4362309968931' cy = '518.7544942380233'
+	r = '30.0'
+	fill = 'rgb(0,204,0)'
+	stroke = 'rgb(0,0,0)' stroke-width = '1' 
+	opacity = '0.8'/>
+
+<circle cx = '682.7984388550116' cy = '391.33781338003325'
+	r = '30.0'
+	fill = 'rgb(0,204,0)'
+	stroke = 'rgb(0,0,0)' stroke-width = '1' 
+	opacity = '0.8'/>
+
+<circle cx = '430.9756827007688' cy = '547.7037234318367'
+	r = '30.0'
+	fill = 'rgb(0,204,0)'
+	stroke = 'rgb(0,0,0)' stroke-width = '1' 
+	opacity = '0.8'/>
+
+<circle cx = '426.49264320223506' cy = '844.0901278101454'
+	r = '30.0'
+	fill = 'rgb(0,204,0)'
+	stroke = 'rgb(0,0,0)' stroke-width = '1' 
+	opacity = '0.8'/>
+
+<circle cx = '673.4710061997664' cy = '1008.0007331854764'
+	r = '30.0'
+	fill = 'rgb(0,204,0)'
+	stroke = 'rgb(0,0,0)' stroke-width = '1' 
+	opacity = '0.8'/>
+
+<circle cx = '1011.153952709618' cy = '862.6142671474646'
+	r = '25.0'
+	fill = 'rgb(51,153,255)'
+	stroke = 'rgb(0,0,0)' stroke-width = '1' 
+	opacity = '0.8'/>
+
+<circle cx = '1004.9523856493842' cy = '526.0338404934008'
+	r = '25.0'
+	fill = 'rgb(51,153,255)'
+	stroke = 'rgb(0,0,0)' stroke-width = '1' 
+	opacity = '0.8'/>
+
+<circle cx = '718.3790015830868' cy = '349.3970986036551'
+	r = '25.0'
+	fill = 'rgb(51,153,255)'
+	stroke = 'rgb(0,0,0)' stroke-width = '1' 
+	opacity = '0.8'/>
+
+<circle cx = '414.9080482204078' cy = '495.10304736958904'
+	r = '25.0'
+	fill = 'rgb(51,153,255)'
+	stroke = 'rgb(0,0,0)' stroke-width = '1' 
+	opacity = '0.8'/>
+
+<circle cx = '373.54932055498887' cy = '829.1903094532126'
+	r = '25.0'
+	fill = 'rgb(51,153,255)'
+	stroke = 'rgb(0,0,0)' stroke-width = '1' 
+	opacity = '0.8'/>
+
+<circle cx = '632.3278420668714' cy = '1044.5005968171897'
+	r = '25.0'
+	fill = 'rgb(51,153,255)'
+	stroke = 'rgb(0,0,0)' stroke-width = '1' 
+	opacity = '0.8'/>
+
+<circle cx = '1018.0952679545593' cy = '907.0756902316434'
+	r = '20.0'
+	fill = 'rgb(127,0,255)'
+	stroke = 'rgb(0,0,0)' stroke-width = '1' 
+	opacity = '0.8'/>
+
+<circle cx = '1046.115791750588' cy = '544.2155345329387'
+	r = '20.0'
+	fill = 'rgb(127,0,255)'
+	stroke = 'rgb(0,0,0)' stroke-width = '1' 
+	opacity = '0.8'/>
+
+<circle cx = '755.9190528058798' cy = '324.58289794777903'
+	r = '20.0'
+	fill = 'rgb(127,0,255)'
+	stroke = 'rgb(0,0,0)' stroke-width = '1' 
+	opacity = '0.8'/>
+
+<circle cx = '414.3105945953701' cy = '450.107013664762'
+	r = '20.0'
+	fill = 'rgb(127,0,255)'
+	stroke = 'rgb(0,0,0)' stroke-width = '1' 
+	opacity = '0.8'/>
+
+<circle cx = '335.36365818968164' cy = '805.3815885778116'
+	r = '20.0'
+	fill = 'rgb(127,0,255)'
+	stroke = 'rgb(0,0,0)' stroke-width = '1' 
+	opacity = '0.8'/>
+
+<circle cx = '591.6616928377537' cy = '1063.7688169445164'
+	r = '20.0'
+	fill = 'rgb(127,0,255)'
+	stroke = 'rgb(0,0,0)' stroke-width = '1' 
+	opacity = '0.8'/>
+
+<circle cx = '1013.6165388176001' cy = '941.7879501021524'
+	r = '15.0'
+	fill = 'rgb(255,153,204)'
+	stroke = 'rgb(0,0,0)' stroke-width = '1' 
+	opacity = '0.8'/>
+
+<circle cx = '1072.905283568675' cy = '566.7393692004337'
+	r = '15.0'
+	fill = 'rgb(255,153,204)'
+	stroke = 'rgb(0,0,0)' stroke-width = '1' 
+	opacity = '0.8'/>
+
+<circle cx = '789.3466303475351' cy = '314.20999769295054'
+	r = '15.0'
+	fill = 'rgb(255,153,204)'
+	stroke = 'rgb(0,0,0)' stroke-width = '1' 
+	opacity = '0.8'/>
+
+<circle cx = '423.6430972279679' cy = '416.37417514481893'
+	r = '15.0'
+	fill = 'rgb(255,153,204)'
+	stroke = 'rgb(0,0,0)' stroke-width = '1' 
+	opacity = '0.8'/>
+
+<circle cx = '312.0208260318525' cy = '779.3026279610344'
+	r = '15.0'
+	fill = 'rgb(255,153,204)'
+	stroke = 'rgb(0,0,0)' stroke-width = '1' 
+	opacity = '0.8'/>
+
+<circle cx = '557.1048181244197' cy = '1069.3206103526811'
+	r = '15.0'
+	fill = 'rgb(255,153,204)'
+	stroke = 'rgb(0,0,0)' stroke-width = '1' 
+	opacity = '0.8'/>
+
+<circle cx = '1003.6169059428913' cy = '964.7009888000433'
+	r = '10.0'
+	fill = 'rgb(255,255,255)'
+	stroke = 'rgb(0,0,0)' stroke-width = '1' 
+	opacity = '0.8'/>
+
+<circle cx = '1086.7831161066906' cy = '587.5337377661486'
+	r = '10.0'
+	fill = 'rgb(255,255,255)'
+	stroke = 'rgb(0,0,0)' stroke-width = '1' 
+	opacity = '0.8'/>
+
+<circle cx = '814.3427130637274' cy = '313.7674495653152'
+	r = '10.0'
+	fill = 'rgb(255,255,255)'
+	stroke = 'rgb(0,0,0)' stroke-width = '1' 
+	opacity = '0.8'/>
+
+<circle cx = '436.77614694841117' cy = '395.10158703146595'
+	r = '10.0'
+	fill = 'rgb(255,255,255)'
+	stroke = 'rgb(0,0,0)' stroke-width = '1' 
+	opacity = '0.8'/>
+
+<circle cx = '301.216377409733' cy = '756.7579192698142'
+	r = '10.0'
+	fill = 'rgb(255,255,255)'
+	stroke = 'rgb(0,0,0)' stroke-width = '1' 
+	opacity = '0.8'/>
+
+<circle cx = '532.2964313956464' cy = '1066.2312822840506'
+	r = '10.0'
+	fill = 'rgb(255,255,255)'
+	stroke = 'rgb(0,0,0)' stroke-width = '1' 
+	opacity = '0.8'/>
+
+</svg>
